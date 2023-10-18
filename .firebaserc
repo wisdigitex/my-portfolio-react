@@ -1,5 +1,8 @@
 {
   "projects": {
-    "default": "my-port-react"
-  }
+    "default": "my-port-react",
+    "my-portfolio-react": "my-portfolio-3e693"
+  },
+  "targets": {},
+  "etags": {}
 }
