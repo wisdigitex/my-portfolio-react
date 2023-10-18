@@ -1,5 +1,4 @@
 import React, { useState } from "react";
-import { FaFacebookF } from "react-icons/fa6";
 import { AnimatePresence, motion } from "framer-motion";
 
 const HomeSocialLinks = ({ data, index }) => {
