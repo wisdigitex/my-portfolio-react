@@ -24,16 +24,16 @@ const Home = () => {
           <h2 className="text-2xl lg:text-4xl text-texlight mt-4">
             And I'm{" "}
             <HeroTypeWritter
-              words={["a full Stack Dev..", "an App Dev..", "a Freelanzer.."]}
+              words={["a Developer..", "an Website Dev..", "a Freelanzer.."]}
               speed={100}
             />
           </h2>
 
           <p className="text-base text-texlight mt-6 text-center lg:text-left">
-          I'm Sulaimon Ganiyu, a seasoned web and app developer and an enthusiastic freelancer. 
+          I'm Sulaimon Ganiyu, a seasoned web developer and an enthusiastic freelancer. 
           Driven by innovation, I specialize in delivering visually striking and functional digital 
-          solutions tailored to your needs. As a developer, I specialize in creating websites and 
-          mobile applications that are not only aesthetically pleasing but also highly functional.
+          solutions tailored to your needs. As a developer, I specialize in creating websites
+          that are not only aesthetically pleasing but also highly functional.
           </p>
 
           {/* social  media links */}

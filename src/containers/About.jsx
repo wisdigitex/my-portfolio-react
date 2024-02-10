@@ -42,18 +42,18 @@ const About = () => {
         <div className="w-full px-8 flex flex-col gap-4 items-start justify-start">
           <p className="text-texlight text-base tracking-wider text-justify">
           Welcome to my corner of the digital world! I'm Sulaimon Ganiyu, a passionate and innovative 
-          web and app developer, as well as a dedicated freelancer, ready to turn your ideas into functional, 
+          web developer, as well as a dedicated freelancer, ready to turn your ideas into functional, 
           user-friendly, and visually appealing digital solutions.
           </p>
           <p className="text-texlight text-base tracking-wide text-justify">
           My journey into the world of web and app development began with a 
           fascination for technology and a desire to create meaningful and impactful digital experiences. 
-          I specialize in creating websites and mobile applications that are not only aesthetically pleasing but also highly functional.
+          I specialize in creating websites that are not only aesthetically pleasing but also highly functional.
           </p>
 
           <p className="text-texlight text-base tracking-wider text-justify">
           Whether you're looking for a personal blog, an e-commerce platform, 
-          or a custom business application, I have the experience and expertise to bring your vision to life.
+          or a custom business Website, I have the experience and expertise to bring your vision to life.
           I work with a variety of programming languages, frameworks, and technologies, including:
           </p>
         </div>
